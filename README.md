@@ -10,5 +10,11 @@ current location (which can, of course, change as the app runs). Tapping on an a
 
 <img width="300" positon = "center" alt="Screenshot 2023-09-23 at 22 58 50" src="https://github.com/ebin-sabu/TravelHelper/assets/49438210/7b487cdd-6866-46fc-8763-72ed3710deb3">
 
+
+
 <img width="300" positon = "center" alt="Screenshot 2023-09-23 at 22 58 50" src="https://github.com/ebin-sabu/TravelHelper/assets/49438210/b21923b6-8fe8-4ccf-a8db-d9082d111e95">
+
+![Simulator Screenshot - iPhone 14 Pro - 2023-09-23 at 23 08 24](https://github.com/ebin-sabu/TravelHelper/assets/49438210/f63887fc-16bc-4313-86d9-b8727387a170)
+
+
 
